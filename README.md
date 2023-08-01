@@ -5,7 +5,7 @@ Data Analyst
 ------------
 
 * 🌍  I'm based in Saint Petersburg
-* ✉️  You can contact me at [anna-gryzunkina@yandex.ru](mailto:anna-gryzunkina@yandex.ru)
+* ✉️  You can contact me at [anna.gryzunkina@yandex.ru](mailto:anna.gryzunkina@yandex.ru)
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
